@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "gạo tẻ",
+        "type": "gạo",
+        "quantity": 10,
+        "price": 150000,
+        "unit": "bao",
+        "image": ""
+    },
+    {
+        "id": 2,
+        "name": "gạo lức",
+        "type": "gạo",
+        "quantity": 10,
+        "price": 150000,
+        "unit": "bao",
+        "image": ""
+    }
+]
